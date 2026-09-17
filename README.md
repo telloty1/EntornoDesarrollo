@@ -7,6 +7,16 @@ Probando si funciona
 Ya funca
 
 Funciona los cambios?
+
 - Algoritmo
+Crear repositorio en github con README
+Clono el repositorio
+Añado cambios
+Guardo cambios
+Hago commit
+Hago fetch origin
+Reviso en github que se haya actualizado
+
+
 
 
